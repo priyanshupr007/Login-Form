@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Backend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.3.7",
+    "body-parser": "^1.19.0",
+    "exchange": "0.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10"
+  },
+  "description": ""
+}
